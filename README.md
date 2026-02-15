@@ -61,13 +61,14 @@ This project demonstrates basic Python programming concepts such as:
     Writing clean and readable code
 
 📌 Future Improvements
-Add single-player mode with AI
 
-Add graphical interface using Tkinter
-
-Add score tracking system
-
-Convert into web-based game using Flask
+      Add single-player mode with AI
+      
+      Add graphical interface using Tkinter
+      
+      Add score tracking system
+      
+      Convert into web-based game using Flask
 
 👩‍💻 Author
 
